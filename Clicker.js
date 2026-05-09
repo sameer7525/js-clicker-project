@@ -6,7 +6,7 @@ const body = document.querySelector("body");
 
   const circleElement = document.createElement("div");
   circleElement.classList.add('circle');
-  circleElement.textContent = "Bhalu";
+  circleElement.textContent = "Hi";
 
   const color = ["red","blue","orange","yellow","green","pink"];
   circleElement.style.backgroundColor = color[Math.floor(Math.random()*6)];
