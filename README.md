@@ -12,6 +12,9 @@
   1. Download or clone this repository.
   2. Open Clicker.html in your browser.
   3. Click anywhere on the screen and enjoy the effect.
+ # Live Demo 
+ 
+ https://sameer7525.github.io/js-clicker-project/
 
   # Author
   Sameer Maurya
